@@ -1,5 +1,3 @@
-This is a MSc individual project
-
 ## Energy Consumption and Carbon Emissions Visualization Application
 
 This web application provides comprehensive data visualizations for monitoring and analyzing energy consumption and carbon emissions across multiple machine learning projects. It aims to assist users in visualizing data effectively to make informed, environmentally friendly decisions.
